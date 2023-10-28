@@ -1,0 +1,14 @@
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\bin\Debug\net6.0\Lab6_ex1.exe
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\bin\Debug\net6.0\Lab6_ex1.deps.json
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\bin\Debug\net6.0\Lab6_ex1.runtimeconfig.json
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\bin\Debug\net6.0\Lab6_ex1.dll
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\bin\Debug\net6.0\Lab6_ex1.pdb
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\Lab6_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\Lab6_ex1.AssemblyInfoInputs.cache
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\Lab6_ex1.AssemblyInfo.cs
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\Lab6_ex1.csproj.CoreCompileInputs.cache
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\Lab6_ex1.dll
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\refint\Lab6_ex1.dll
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\Lab6_ex1.pdb
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\Lab6_ex1.genruntimeconfig.cache
+C:\Users\ANC\source\repos\Lab6_Collections\Lab6_ex1\obj\Debug\net6.0\ref\Lab6_ex1.dll
